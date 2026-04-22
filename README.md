@@ -26,7 +26,8 @@ With Kafka:
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architectur
+![Kafka Architecture](docs/kafka_architecture.svg)
 
 <p align="center">
 <img src="docs/kafka_architecture.svg" alt="Kafka Producer Consumer Architecture" width="700"/>
